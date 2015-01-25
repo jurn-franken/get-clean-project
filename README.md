@@ -28,4 +28,5 @@ For sake of clarity and inspectability all intermediary data is kept in memory a
 the dataset is easily viewed in RStudio with:
 
 > data <- read.table("tidy_dataset.txt", header=TRUE)
+
 > View(data)
